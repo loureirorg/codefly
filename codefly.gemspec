@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Daniel Loureiro"]
   spec.email         = ["loureirorg@gmail.com"]
   spec.summary       = %q{Parallel / async code in Rails}
-  spec.description   = %q{CodeFly is a gem that allows you to execute parallel / asynchronous code in Rails, in a easy way.}
+  spec.description   = %q{Execute parallel / asynchronous code in Rails, in a easy way}
   spec.homepage      = "https://github.com/loureirorg/codefly"
   spec.license       = "MIT"
 
