@@ -1,4 +1,4 @@
-CodeFly is a gem that allows you to execute parallel / asynchronous code in Rails, in a easy way.
+with CodeFly you can execute parallel / asynchronous code in Rails, in a easy way.
 
 This is how a classic code looks like:
 ```ruby
